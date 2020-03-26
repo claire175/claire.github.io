@@ -1,2 +1,2 @@
-# claire175.github.io
+# claire.github.io
 claire's development logs
